@@ -1,0 +1,18 @@
+{
+  "AccountName": "accountName",
+  "Email": "Email",
+  "Type": "Type",
+  "Name": "Sanjit",
+  "Parts": [
+    {
+      "Number": "12345",
+      "StartDate": "02/27/2024 00:00:00",
+      "EndDate": "02/27/2024 00:00:00"
+    },
+    {
+      "Number": "12346",
+      "StartDate": "02/27/2024 00:00:00",
+      "EndDate": "02/27/2024 00:00:00"
+    }
+  ]
+}
